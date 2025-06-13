@@ -4,7 +4,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 
 > ⚡ **Context:** This project was inspired by a real-world data analyst case study challenge. The objective was to analyze user-level behavioral and revenue data to identify what’s working, what’s not, and where opportunities lie — while showcasing strong data storytelling and visualization skills.
 > ⚡**Note** The repository is updated with a comprehensive exploratory data analysis (EDA) notebook and a detailed final report in PDF format, showcasing the full process from raw data exploration to strategic recommendations.
-> > ⏱ Suggested time: 3-5 hours (completed as a personal project for self-improvement)
+> ⏱ Suggested time: 3-5 hours (completed as a personal project for self-improvement)
 
 
 
