@@ -2,7 +2,8 @@
 
 This project presents an in-depth analysis of user behavior, revenue trends, and churn patterns for a hypothetical gaming platform, **Matiks**. The goal was to extract actionable insights that could drive engagement, improve retention, and enhance monetization strategies.  
 
-> ⚡ **Context:** I discovered this data analyst task as part of a LinkedIn case study challenge. Although I wasn’t eligible to apply, I took on the task as a personal project to sharpen my analytical skills and demonstrate my ability to turn raw data into strategic recommendations.
+> ⚡ **Context:** I discovered this data analyst task as part of a job listing assessment. Although I wasn’t eligible to apply for the job at that time, I took on the task as a personal project to sharpen my analytical skills and demonstrate my ability to turn raw data into strategic recommendations.
+The repository is updated with a comprehensive exploratory data analysis (EDA) notebook and a detailed final report in PDF format, showcasing the full process from raw data exploration to strategic recommendations.
 
 ---
 
@@ -49,6 +50,7 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 ## ⚙ Technologies  
 
 - **Power BI:** For dashboard design and visualization  
+- **Python and its Libraries:** Exploratory Data Analysis  
 - **Excel / Data Cleaning:** For initial data preparation  
 - **Git & GitHub:** Version control and project management  
 
