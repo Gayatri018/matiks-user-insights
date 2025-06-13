@@ -8,14 +8,6 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 
 ## 📊 Dashboard Snapshots  
 
-### Churn Risk Analysis  
-![Churn Risk Dashboard](images/churn.png)
-
-- Identified high-risk user segments with low play sessions and short session durations.  
-- Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
-
----
-
 ### Revenue Segmentation  
 ![Revenue Segmentation Dashboard](images/revenue-segmentation.png)
 
@@ -24,6 +16,16 @@ This project presents an in-depth analysis of user behavior, revenue trends, and
 - Identified opportunities for premium upsells and targeting mid-engagement users for monetization.
 
 ---
+
+### Churn Risk Analysis  
+![Churn Risk Dashboard](images/churn.png)
+
+- Identified high-risk user segments with low play sessions and short session durations.  
+- Highlighted referral sources and device types contributing uniformly to churn, signaling product-side improvement needs over acquisition channel fixes.
+
+---
+
+
 
 ## 🔑 Key Insights  
 
